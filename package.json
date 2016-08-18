@@ -1,0 +1,23 @@
+{
+  "name": "spotify-recommend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry1425/spotify-api.git"
+  },
+  "author": "Henry Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry1425/spotify-api/issues"
+  },
+  "homepage": "https://github.com/Henry1425/spotify-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "unirest": "^0.5.0"
+  }
+}
